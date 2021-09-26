@@ -4,8 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start ts-node ./src/server.ts",
-    "t": "ts-node ./src/server.ts",
+    "start": "pm2 start ./src/server.ts",
     "dev": "nodemon -r dotenv/config ./src/server.ts --trace-warnings",
     "build": "tsc --project ./",
     "tsc": "tsc"
