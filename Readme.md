@@ -31,7 +31,7 @@
 
 #  Scalability
 ###### We have increased the availability of the app by running it on all EC2 processors using `pm2 start server.ts -i -1` 
-###### and in my EC2 case the app will be cloned 5 times
+###### and in my EC2 case the app will be cloned 2 times
 
 
 
