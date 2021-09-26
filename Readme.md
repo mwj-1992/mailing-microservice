@@ -38,3 +38,5 @@
 
 
 ![alt text](https://github.com/mwj-1992/mailing-microservice/blob/master/assets/images/Diagram.JPG?raw=true)
+![alt text](https://github.com/mwj-1992/mailing-microservice/blob/master/assets/images/Benchmarks.JPG?raw=true)
+
