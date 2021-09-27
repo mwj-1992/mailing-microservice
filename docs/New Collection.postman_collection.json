@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "fad55e79-fffc-455c-98c6-4f11f0d1d2ee",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Mail",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"emailBody\": \"welcome to body\",\r\n    \"recipients\": [\r\n        \"aa@aa.com\",\r\n        \"bbbbbb@dd.net\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://52.221.186.207:3001/api/mail",
+					"protocol": "http",
+					"host": [
+						"52",
+						"221",
+						"186",
+						"207"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"mail"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
