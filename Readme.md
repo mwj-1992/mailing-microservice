@@ -40,3 +40,6 @@
 ![alt text](https://github.com/mwj-1992/mailing-microservice/blob/master/assets/images/Diagram.JPG?raw=true)
 ![alt text](https://github.com/mwj-1992/mailing-microservice/blob/master/assets/images/Benchmarks.JPG?raw=true)
 
+# Things to Do:
+##### Build UI using React to submit a new email (submit the recipients and email body)
+##### Build UI to show the progress, How many remaning emails in the queue and so on 
